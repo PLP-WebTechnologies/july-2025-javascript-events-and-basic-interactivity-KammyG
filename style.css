@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f5f5f5;
+    color: #333;
+    transition: background 0.3s, color 0.3s;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+    padding: 15px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  /* Dark mode */
+  .dark-mode {
+    background: #121212;
+    color: #f5f5f5;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  #formErrors {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
